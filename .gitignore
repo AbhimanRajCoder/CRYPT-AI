@@ -20,7 +20,7 @@ datasets/
 offroad_dataset.zip
 
 # Model Checkpoints and Weights
-checkpoints/
+# checkpoints/ (Included now)
 *.pth
 *.h5
 *.weights
