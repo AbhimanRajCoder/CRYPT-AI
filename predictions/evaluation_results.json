@@ -1,0 +1,20 @@
+{
+  "mean_iou": 0.4888005671107821,
+  "mean_dice": 0.7172721631225578,
+  "pixel_accuracy": 0.8339010744678731,
+  "tta_enabled": false,
+  "num_samples": 317,
+  "per_class_iou": {
+    "Background": null,
+    "Trees": 0.5984172002391341,
+    "Lush Bushes": 0.43867969852971544,
+    "Dry Grass": 0.5915802228202057,
+    "Dry Bushes": 0.43801159330917305,
+    "Ground Clutter": 0.2618805288540929,
+    "Flowers": 0.48492426892930823,
+    "Logs": 0.2526361657342169,
+    "Rocks": 0.2979370742841657,
+    "Landscape": 0.5509961566764496,
+    "Sky": 0.9729427617313601
+  }
+}

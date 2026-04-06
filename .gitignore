@@ -30,7 +30,6 @@ offroad_scripts_with_checkpoint.zip
 # Training Logs and Outputs
 runs/
 outputs/
-predictions/
 results/
 metrics_report.json
 
