@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🏜️ CRYPT-AI
+# CRYPT-AI
 
 ### Off-Road Desert Semantic Segmentation
 
-**🔥 Team FORGECRYPT**
+** Team FORGECRYPT**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -21,7 +21,7 @@
 
 </div>
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Architecture](#-architecture)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 | Feature | Details |
 |:--------|:--------|
@@ -70,7 +70,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The model uses an **encoder-decoder** structure (DeepLabV3+) designed to capture context at multiple spatial scales — crucial for distinguishing vast skies from tiny desert flowers.
 
@@ -233,7 +233,7 @@ python visualize.py
 
 ---
 
-## 📊 Results & Performance Metrics
+## Results & Performance Metrics
 
 ### Global Metrics
 
@@ -286,7 +286,7 @@ The confusion matrix reveals key class confusions — particularly between visua
 
 ---
 
-## 🖼️ Segmentation Results — Visual Comparisons
+##  Segmentation Results — Visual Comparisons
 
 Side-by-side comparisons of **Input Image → Ground Truth → Model Prediction** on the validation set:
 
@@ -317,13 +317,14 @@ Side-by-side comparisons of **Input Image → Ground Truth → Model Prediction*
 
 ---
 
-## 💻 Interactive UI Dashboard
+## Interactive UI Dashboard
 
 To make exploring the model intuitive, we built an interactive interface. Here are screenshots of the system in action:
 
 <div align="center">
 <img src="assets/image1.jpeg" alt="Gradio Interface - Main Dashboard" width="900" style="margin-bottom: 20px;"/>
 <br>
+---
 <img src="assets/image2.jpeg" alt="Gradio Interface - Results" width="900"/>
 </div>
 
