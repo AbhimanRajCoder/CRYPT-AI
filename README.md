@@ -317,6 +317,18 @@ Side-by-side comparisons of **Input Image → Ground Truth → Model Prediction*
 
 ---
 
+## 💻 Interactive UI Dashboard
+
+To make exploring the model intuitive, we built an interactive interface. Here are screenshots of the system in action:
+
+<div align="center">
+<img src="assets/image1.jpeg" alt="Gradio Interface - Main Dashboard" width="900" style="margin-bottom: 20px;"/>
+<br>
+<img src="assets/image2.jpeg" alt="Gradio Interface - Results" width="900"/>
+</div>
+
+---
+
 ## ⚡ Challenges & Solutions
 
 ### Challenge 1: Extreme Class Imbalance
