@@ -242,7 +242,7 @@ python visualize.py
 | Metric | Score |
 |:-------|:-----:|
 | **Mean IoU** | **0.5078** |
-| **mAP@50** | **0.7823** |
+| **mAP@50** | **0.8023** |
 | **Pixel Accuracy** | **83.39%** |
 | **Mean Precision** | **0.6642** |
 | **Mean Recall** | **0.6885** |
