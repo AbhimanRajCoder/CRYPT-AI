@@ -1,0 +1,23 @@
+# Off-Road Desert Segmentation — Requirements
+# Install with: pip install -r requirements.txt
+
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data & Augmentation
+albumentations>=1.3.0
+opencv-contrib-python>=4.8.0
+Pillow>=9.0.0
+numpy>=1.24.0
+
+# Training & Metrics
+tqdm>=4.65.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Model training
+ultralytics>=8.0.0
+
+# Utilities
+pyyaml>=6.0

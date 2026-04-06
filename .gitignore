@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+EDU_env/
+venv/
+env/
+.env
+
+# Datasets
+Offroad_Segmentation_Training_Dataset/
+data/
+datasets/
+offroad_dataset.zip
+
+# Model Checkpoints and Weights
+checkpoints/
+*.pth
+*.h5
+*.weights
+offroad_scripts_with_checkpoint.zip
+
+# Training Logs and Outputs
+runs/
+outputs/
+predictions/
+results/
+metrics_report.json
+
+# IDEs
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
